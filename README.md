@@ -6,8 +6,8 @@ O PyDutor é uma biblioteca Python que permite que você escreva códigos Python
 
 ## Como usar
 
-1. Baixe o arquivo `tradutor.py` e coloque-o na mesma pasta que seus scripts Python.
-2. Copie e cole essa linha no inicio do seu código ```from pydutor import Tradutor```
+1. Baixe o arquivo `pydutor.py` e coloque-o na mesma pasta que seus scripts Python.
+2. Copie e cole essa linha no inicio do seu código ```from pydutor import PyDutor```
 3. Copie o conteúdo do `content.py` e cole no seu arquivo.
 4. Escreva seu código dentro da variável `codigo_portugues`.
 
